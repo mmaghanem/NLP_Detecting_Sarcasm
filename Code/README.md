@@ -1,5 +1,4 @@
-# 266-Project
-Here’s a summary of all the files in the repo
+Here’s a summary of all the code files
 
 DISCLAIMER
 
