@@ -1,0 +1,9 @@
+# Ignore Mac System files
+.DS_Store
+
+# Ignore Jupyter notebook checkpoint directories
+.ipynb_checkpoints/
+
+# Additionally, ignore Python byte-compiled files often generated
+__pycache__/
+*.py[cod]
